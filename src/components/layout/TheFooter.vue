@@ -9,7 +9,7 @@
 footer {
   text-align: center;
   font-size: 12px;
-  padding: 1rem;
+  padding: 0;
   margin-top: 2rem;
 }
 
