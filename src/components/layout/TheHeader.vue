@@ -43,10 +43,7 @@ const isHomeRoute = computed(() => route.name === "home")
 
 @media only screen and (max-width: 768px) {
   .home-link {
-    font-size: 1.2rem;
-  }
-  .navigation {
-    font-size: 14px;
+    font-size: 1.5rem;
   }
 }
 </style>
