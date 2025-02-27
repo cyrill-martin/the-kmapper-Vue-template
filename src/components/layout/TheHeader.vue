@@ -28,6 +28,7 @@ const isHomeRoute = computed(() => route.name === "home")
   flex: 4;
   font-size: 2rem;
   font-weight: 800;
+  align-items: center;
 }
 
 .home-link a {
@@ -39,6 +40,7 @@ const isHomeRoute = computed(() => route.name === "home")
   flex: 1;
   display: flex;
   justify-content: flex-end;
+  align-items: center;
 }
 
 @media only screen and (max-width: 768px) {
